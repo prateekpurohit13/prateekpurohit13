@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Prateek.
-
 - 🔭 I'm currently working on **Backend Development and API Security.**
 - 🌱 I'm currently learning **React, Node.js, A.I, CyberSecurity and DevOps.**
 - 💬 Feel free to reach out for collaborations or discussions!
@@ -20,12 +19,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateekpurohit13&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekpurohit13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prateekpurohit13&show_icons=true&theme=slate&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekpurohit13&layout=compact&theme=slate&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekpurohit13&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateekpurohit13&theme=slate&hide_border=true" alt="GitHub Streak Stats" width="100%"/>
 </div>
 
 ---
