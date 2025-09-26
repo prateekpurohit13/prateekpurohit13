@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prateek.
 
-- 🔭 I'm currently working on **Backend Development and CyberSecurity.**
+- 🔭 I'm currently working on **Backend Development and API Security.**
 - 🌱 I'm currently learning **React, Node.js, A.I, CyberSecurity and DevOps.**
 - 💬 Feel free to reach out for collaborations or discussions!
 - 😄 Pronouns: **he/him/his**
