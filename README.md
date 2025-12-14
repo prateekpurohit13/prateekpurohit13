@@ -28,17 +28,3 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateekpurohit13&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekpurohit13&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
