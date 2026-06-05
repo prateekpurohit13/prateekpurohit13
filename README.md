@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Prateek</h1>
+<h1 align="center">👋 Hi, I'm Prateek Purohit</h1>
 
 - 🔭 I'm currently working on **Backend Development and API Security.**
 - 🌱 I'm currently learning **AWS, CyberSecurity and DevOps.**
@@ -25,12 +25,12 @@
     <tr>
       <td>
         <a href="https://git.io/streak-stats">
-          <img src="./profile/streak.svg" alt="GitHub Streak" />
+          <img src="./profile/streak.svg" alt="GitHub Streak">
         </a>
       </td>
       <td>
-        <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=prateekpurohit13&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="./profile/stats.svg" alt="GitHub Stats">
         </a>
       </td>
     </tr>
