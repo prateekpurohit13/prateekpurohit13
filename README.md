@@ -26,13 +26,12 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="./profile/stats.svg" alt="GitHub Stats">
+        <a href="https://github.com/stats-organization/github-stats-extended">
+          <img src="https://github-stats-extended.vercel.app/api?username=prateekpurohit13&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats">
         </a>
       </td>
     </tr>
   </table>
-  <p align="center">
 </div>
 <p align="center">
   <img width="1010" height="550" alt="readme" src="https://github.com/user-attachments/assets/fd9b37ec-49b7-4fcd-9c52-866cecdbe236">
