@@ -27,7 +27,7 @@
       </td>
       <td>
         <a href="https://github.com/stats-organization/github-stats-extended">
-          <img src="https://github-stats-extended.vercel.app/api?username=prateekpurohit13&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats">
+          <img src="https://github-stats-extended.vercel.app/api?username=prateekpurohit13&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="GitHub Stats">
         </a>
       </td>
     </tr>
